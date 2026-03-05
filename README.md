@@ -1,2 +1,2 @@
 # shopstore-demo
-Static demo of the shopstore
+Static demo of the shopstore.
